@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://layer-map.cad-download.com/sitemap.xml
