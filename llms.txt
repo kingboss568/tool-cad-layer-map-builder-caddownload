@@ -1,0 +1,45 @@
+CAD Layer Map Builder
+
+CAD Layer Map Builder is a practical cad studio workspace for interior detailer teams who need a working tool, reference pages, exportable notes, and SEO-ready guidance in one static site.
+
+Key sections:
+- https://layer-map.cad-download.com/
+- https://layer-map.cad-download.com/tool/
+- https://layer-map.cad-download.com/workspace/
+- https://layer-map.cad-download.com/reports/
+- https://layer-map.cad-download.com/guides/
+- https://layer-map.cad-download.com/library/
+- https://layer-map.cad-download.com/templates/
+- https://layer-map.cad-download.com/compare/
+- https://layer-map.cad-download.com/checklists/
+- https://layer-map.cad-download.com/integrations/
+- https://layer-map.cad-download.com/settings/
+- https://layer-map.cad-download.com/plans/
+- https://layer-map.cad-download.com/faq/
+- https://layer-map.cad-download.com/privacy/
+- https://layer-map.cad-download.com/about/
+- https://layer-map.cad-download.com/guides/preflight-a-dwg-package-1/
+- https://layer-map.cad-download.com/guides/standardize-a-drawing-set-2/
+- https://layer-map.cad-download.com/guides/prepare-a-client-handoff-3/
+- https://layer-map.cad-download.com/guides/audit-a-template-4/
+- https://layer-map.cad-download.com/guides/compare-block-options-5/
+- https://layer-map.cad-download.com/guides/document-drawing-assumptions-6/
+- https://layer-map.cad-download.com/guides/preflight-a-dwg-package-7/
+- https://layer-map.cad-download.com/guides/standardize-a-drawing-set-8/
+- https://layer-map.cad-download.com/guides/prepare-a-client-handoff-9/
+- https://layer-map.cad-download.com/guides/audit-a-template-10/
+- https://layer-map.cad-download.com/guides/compare-block-options-11/
+- https://layer-map.cad-download.com/guides/document-drawing-assumptions-12/
+- https://layer-map.cad-download.com/guides/preflight-a-dwg-package-13/
+- https://layer-map.cad-download.com/guides/standardize-a-drawing-set-14/
+- https://layer-map.cad-download.com/guides/prepare-a-client-handoff-15/
+- https://layer-map.cad-download.com/guides/audit-a-template-16/
+- https://layer-map.cad-download.com/guides/compare-block-options-17/
+- https://layer-map.cad-download.com/guides/document-drawing-assumptions-18/
+- https://layer-map.cad-download.com/guides/preflight-a-dwg-package-19/
+- https://layer-map.cad-download.com/guides/standardize-a-drawing-set-20/
+- https://layer-map.cad-download.com/guides/prepare-a-client-handoff-21/
+- https://layer-map.cad-download.com/guides/audit-a-template-22/
+- https://layer-map.cad-download.com/guides/compare-block-options-23/
+- https://layer-map.cad-download.com/guides/document-drawing-assumptions-24/
+- https://layer-map.cad-download.com/guides/preflight-a-dwg-package-25/
